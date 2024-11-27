@@ -1,0 +1,11 @@
+averaging = 500
+# X acq. = 2
+begin/ps = 1170.00
+range/ps = 70.00
+# x-pixels = 11
+x-offset = 3.70
+x-stepsize = 2.40
+# z-pixels = 2
+z-offset = 5.00
+z-stepsize = 2.40
+unit = cm
